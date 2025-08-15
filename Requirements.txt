@@ -6,6 +6,6 @@ plotly
 scikit-learn
 xgboost
 ta
-alpaca-trade-api
+yfinance
 python-dotenv
 backtrader
