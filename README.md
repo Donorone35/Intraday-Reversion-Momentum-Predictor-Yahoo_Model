@@ -1,4 +1,4 @@
-# **Intraday-Reversion-Momentum-Predictor **
+## **Intraday-Reversion-Momentum-Predictor **
 
 This repository contains a **machine learning model** that implements an **intraday reversion/momentum arbitrage strategy**.  
 The model identifies ultra-short-term trading opportunities on **1-minute intervals** using **statistical indicators** and **machine learning techniques** to detect price reversion and momentum bursts.
