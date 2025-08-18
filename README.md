@@ -8,7 +8,7 @@ The model identifies ultra-short-term trading opportunities on **1-minute interv
 - **Signal Generation:** Combines Bollinger Bands, Z-scores, VWAP deviations, RSI, EMA alignment, and volume spikes.
 - **Machine Learning Driven:** Utilizes **XGBoost** to classify trade signals.
 - **Real-Time Streaming:** Integrates with **Yahoo Finance** for live inference.
-- **Feature Engineering:** Extracts and processes 1-second and 1-minute OHLCV data into predictive features.
+- **Feature Engineering:** Extracts and processes 1-min and 1-hr OHLCV data into predictive features.
 - **Dual Model Setup:** Uses **1-minute model for intraday signals** and **1-hour model for trend confirmation**.
 
 ## **Technology Used**
